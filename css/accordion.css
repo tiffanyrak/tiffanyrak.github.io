@@ -1,0 +1,19 @@
+.accordion {
+    background-color: #570987; /* Purple background */
+    color: white; /* Text color */
+    cursor: pointer;
+    padding: 10px;
+    border: none;
+    text-align: center;
+    outline: none;
+    font-size: 16px;
+}
+
+.panel {
+    display: none; /* Hidden by default */
+    padding: 0 15px;
+    overflow: hidden;
+    background-color: #ffffff; /* Light background for content */
+    margin-top: 5px; /* Space above content */
+}
+ 
